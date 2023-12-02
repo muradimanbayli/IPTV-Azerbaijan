@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AzTV.az",Az TV (1080p)
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=1869dc97cf686a297e67c42b7f8e1e5cecd85ff9-04b419e6f6ed4adde80705390305a648-1701542020-1701531220
+#EXTINF:-1 tvg-id="MedeniyyetTV.az",Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=1869dc97cf686a297e67c42b7f8e1e5cecd85ff9-04b419e6f6ed4adde80705390305a648-1701542020-1701531220
+#EXTINF:-1 tvg-id="IdmanTV.az",İdman TV (1080p)
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=1869dc97cf686a297e67c42b7f8e1e5cecd85ff9-04b419e6f6ed4adde80705390305a648-1701542020-1701531220
+#EXTINF:-1 tvg-id="ARB24.az",ARB 24 (1080p)
+https://stream.atv.az/HLS3/streams/arb24.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="AzadTV.az",Azad TV (ATV) (720p)
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="IctimaiTV.az",Ictimai TV
+https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=7207611
