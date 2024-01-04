@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="xezertv.az" tvg-logo="https://az.wikipedia.org/wiki/X%C9%99z%C9%99r_TV#/media/Fayl:X%C9%99z%C9%99r_TV_(2023).png" group-title="General",Xezer TV
+http://149.255.152.199/xazer.m3u8?bandwidth=2096&e=1704458858&playlistlength=5&shift=0&sid=coder_53&token=ebf29283e1c6d9dc4170dec684ca5682&user=37076
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News",APA TV (720p)
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="News",ARB 24 (1080p)
-http://85.132.81.184:8080/arb/live/index.m3u8
+http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1704459067&playlistlength=5&shift=0&sid=coder_62&token=cfe8d7a7f8784324f612514b18f110f7&user=37076
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="General",ARB (576p)
 http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Kids",ARB Günəş [Geo-blocked]
@@ -16,11 +16,7 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General",Az TV (1080p)
 http://149.255.152.199/aztv.m3u8?bandwidth=796&e=1704458418&playlistlength=5&shift=0&sid=coder_53&token=8af1de21af97555cdd59c7862fa858cc&user=37076
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV (ATV) (720p)
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 tvg-id="AzadTVMinus2.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV -2 (ATV) (720p)
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:-1 tvg-id="AzadTVMinus4.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV -4 (ATV) (720p) [Not 24/7]
-http://85.132.81.184:8080/atv-4/index.m3u8
+http://149.255.152.199/atvaz.m3u8?bandwidth=2096&e=1704458710&playlistlength=5&shift=0&sid=coder_53&token=583c958014b42953f94565577d0bd707&user=37076
 #EXTINF:-1 tvg-id="AzerbaijanNewsTV.se" tvg-logo="https://i.imgur.com/Kw17XfP.png" group-title="News",Azerbaijan News TV (720p) [Not 24/7]
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News",Baku TV (720p)
