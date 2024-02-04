@@ -26,7 +26,7 @@ http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="General",EL TV (260p)
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
-https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=7607617
+http://149.255.152.199/ictimai.m3u8?bandwidth=2096&e=1707152750&playlistlength=5&shift=0&sid=coder_52&token=1b7e67fe540335a84ed8d4a872e3b269&user=37076
 #EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Sports",İdman TV (576p)
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 tvg-id="KanalTuran.fr" tvg-logo="https://i.imgur.com/9AWwu2o.png" group-title="News",Kanal Turan (576p)
